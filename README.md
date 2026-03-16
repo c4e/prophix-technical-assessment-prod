@@ -1,1 +1,0 @@
-# prophix-technical-assessment-prod
